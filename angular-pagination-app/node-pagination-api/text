@@ -1,0 +1,9 @@
+INSERT INTO blog-post (title, content) VALUES
+('First blog post', 'This is the content of the First blog post.'),
+('Second blog post', 'This is the content of the Second blog post.'),
+('Third blog post', 'This is the content of the Third blog post.'),
+('Fourth blog post', 'This is the content of the Fourth blog post.'),
+('Fifth blog post', 'This is the content of the Fifth blog post.'),
+('Sixth blog post', 'This is the content of the Sixth blog post.'),
+('Sixth blog post', 'This is the content of the Sixth blog post.'),
+('Sixth blog post', 'This is the content of the Sixth blog post.');
